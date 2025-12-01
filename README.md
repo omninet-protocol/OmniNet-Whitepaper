@@ -1,41 +1,102 @@
-# OmniNet — Public Whitepaper (v1.0)
+OmniNet Protocol — v2.0
+A New Internet Architecture for Identity, Intelligence, and Holographic Computing
 
-OmniNet is a next-generation 15-phase network architecture created by Alain Lebel Mercier.  
-It introduces a unified ecosystem that merges:
+OmniNet is a next-generation internet layer designed to unify identity, data, knowledge, intelligence, and global communication into a single user-owned ecosystem.
 
-- Identity (OmniID)
-- Secure encrypted storage (OmniVault)
-- AI logic & intelligence (OmniBrain)
-- Holographic and AR interfaces (Holographic UI, OmniOrb)
-- Multi-device synchronization (OmniSync)
-- Distributed networking (OmniMesh)
-- Spatial UI layers (OmniSpace)
-- Cloudless P2P infrastructure (OmniCloudless)
-- An interconnected app and economic ecosystem (OmniApps, OmniEconomy)
-- System-wide integration (Phase 15)
+This repository contains the official OmniNet Whitepaper v2.0, authored by:
 
-This repository contains the **public whitepaper** of OmniNet.
+Alain Mercier
+Creator and Architect of the OmniNet Protocol
+© 2025 — All Rights Reserved.
 
-### 🟢 SAFE TO DISCLOSE  
-This repo contains **high-level documentation only**, designed for the public, investors, collaborators, and partners.
+What Is OmniNet?
 
-### 🔴 PRIVATE MATERIALS EXCLUDED  
-All sensitive technical implementations remain private, including:
-- Full system architecture
-- AR engine and holographic code
-- The OmniOrb engine (CSS/JS)
-- Internal prototypes
-- Development files
-- Future-phase specifications (detailed versions)
+OmniNet replaces the fragmented, centralized, surveillance-driven structure of today’s internet with a unified, privacy-first architecture built on:
 
-### 📄 Files Included
-- **OmniNet_Public_Whitepaper.pdf** — public PDF whitepaper  
-- **OmniNet-Whitepaper-Public.zip** — full public package  
+Identity (OmniID)
 
-### © Copyright Notice
-All content is protected under international copyright law.  
-Unauthorized reproduction or use is prohibited.
+Encrypted personal data (OmniVault)
 
-**Author:** Alain Lebel Mercier  
-**Year:** 2025
+Semantic knowledge graph (OmniGraph)
 
+Holographic multi-modal UI (OmniUI)
+
+Multi-device sync (OmniSync)
+
+Device mesh networking (OmniMesh)
+
+New communication protocol (OmniProtocol)
+
+Distributed compute (HyperStructures)
+
+Global routing layer (PrimeNet)
+
+Trust-based value system (OmniEconomy)
+
+Developer SDK (OmniNet SDK)
+
+OmniNet is not a blockchain, not a cloud service, and not a traditional OS.
+It is a new internet layer designed for the age of AI, AR, holographic computing, and distributed intelligence.
+
+Whitepaper
+
+The official whitepaper is located here:
+
+/v2.0/OmniNet-Whitepaper-v2.0.md
+
+It includes the full architecture, 22 development phases, diagrams, and long-term vision.
+
+Ownership
+
+All concepts, systems, architecture, and IP are the creation of:
+
+Alain Mercier
+Creator of the OmniNet Protocol
+© 2025 — All Rights Reserved.
+
+See the following files:
+OWNERSHIP.md
+LICENSE
+
+Vision
+
+OmniNet aims to become the foundational digital layer for:
+
+AI-native personal computing
+
+AR and holographic operating environments
+
+Global-scale personal intelligence
+
+Distributed compute networks
+
+Universal identity and trust
+
+A safer, user-owned future internet
+
+Planned Development
+
+Upcoming public milestones:
+
+OmniNet OS (UI and holographic interactions)
+
+OmniGraph Engine
+
+OmniProtocol networking simulation
+
+OmniMesh device network
+
+OmniSync delta-sync engine
+
+OmniNet SDK (graph-native app framework)
+
+Holographic UI prototypes
+
+PrimeNet global routing simulation
+
+Contact
+
+For partnerships, collaboration, or research:
+
+Alain Mercier
+Email: mercier_racing95@hotmail.com
