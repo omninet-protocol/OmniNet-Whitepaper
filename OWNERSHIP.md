@@ -1,41 +1,40 @@
-OWNERSHIP STATEMENT — OMNINET ARCHITECTURE
+OWNERSHIP STATEMENT — VYTRION ARCHITECTURE
 
 Author: Alain Mercier
-Project: OmniNet Protocol
+Project: Vytrion Protocol
 Year: 2025
-© 2025 Alain Mercier — All Rights Reserved.
+(C) 2025 Alain Mercier — All Rights Reserved.
 
-This document certifies that all concepts, designs, phases, architectures, and systems described in the OmniNet Whitepaper v2.0 and supporting materials were created by:
+This document certifies that all concepts, designs, phases, architectures, and systems described in the Vytrion Whitepaper v2.0 and all supporting materials were created by:
 
 Alain Mercier (@mercier_racing95)
-
-Creator, Designer, and Original Architect of the OmniNet system.
+Creator, Designer, and Original Architect of the Vytrion system.
 
 This includes full ownership of:
 
-• OmniID
-• OmniVault
-• OmniGraph
-• OmniUI
-• OmniSync
-• OmniMesh
-• OmniProtocol
-• OmniChain
-• HyperStructures
-• PrimeNet
-• Intent Graph
-• Device Mesh
-• Holographic Extensions
-• OmniNet OS
-• OmniNet SDK
-• OmniEconomy
-• All 22 OmniNet Phases
-• All diagrams, architecture designs, and conceptual models
-• The full OmniNet Master Plan (Phase 1–15 and beyond)
+1.  Vytrion ID
+2.  Vytrion Vault
+3.  Vytrion Graph
+4.  Vytrion Space
+5.  Vytrion Sync
+6.  Vytrion Mesh
+7.  Vytrion Protocol
+8.  Vytrion Chain
+9.  HyperStructures
+10.  Vytrion Net
+11.  Intent Graph
+12.  Device Mesh
+13.  Holographic Extensions
+14.  Vytrion OS
+15.  Vytrion SDK
+16.  Vytrion Economy
+17.  All 22 Vytrion architecture phases
+18.  All diagrams, system designs, and conceptual models
+19.  The complete Vytrion long-term master plan
 
-All intellectual property, including software designs, interaction models, network architectures, algorithms, holographic interfaces, and distributed compute frameworks, is owned solely by Alain Mercier.
+All intellectual property — including software designs, interaction models, network architectures, algorithms, holographic interfaces, synchronization systems, and distributed compute frameworks — is owned solely by Alain Mercier.
 
-No other individual, organization, or entity holds rights, authorship, or claims to the OmniNet architecture unless explicitly authorized by the owner in writing.
+No other individual, organization, or entity holds rights, authorship, or claims to the Vytrion architecture unless explicitly authorized in writing by the owner.
 
 For inquiries regarding usage, licensing, or partnership, contact:
 mercier_racing95@hotmail.com
