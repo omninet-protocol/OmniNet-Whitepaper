@@ -205,4 +205,4 @@ Distributed compute HyperStructures
 
 Alain Mercier
 Creator & Architect of the Vytrion Protocol
-📧 Email: mercier_racing95@hotmail.com
+📧 Email: vytrion_protocol@outlook.com
